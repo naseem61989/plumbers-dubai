@@ -7,8 +7,8 @@
 const siteConfig = {
     name: "Aqua Plumber Dubai Water Pump Services",
     phone: "+923107228764",
-    whatsapp: "971521729561",
-    email: "info@aquaplumberdubaiwaterpumpservices.com",
+    whatsapp: "+923107228764",
+    email: "engnr825@gmail.com",
     city: "Dubai",
     country: "UAE",
     industry: "Plumbing and Water Pump Repair",
