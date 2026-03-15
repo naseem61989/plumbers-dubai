@@ -1,18 +1,18 @@
-// Main JavaScript for Aqua Plumber Dubai Water Pump Services
+// Main JavaScript for Best Plumber Dubai Water Pump Services
 // Generated: 2026-03-11 21:57:04
 // PERMANENTLY FIXED: Form redirects to WhatsApp without page refresh
 // PERMANENTLY FIXED: FAQ toggles working perfectly
 
 // Business Configuration
 const siteConfig = {
-    name: "Aqua Plumber Dubai Water Pump Services",
+    name: "Best Plumber Dubai Water Pump Services",
     phone: "+923107228764",
     whatsapp: "+923107228764",
     email: "engnr825@gmail.com",
     city: "Dubai",
     country: "UAE",
     industry: "Plumbing and Water Pump Repair",
-    logo: "https://res.cloudinary.com/dyor4wsy0/image/upload/v1773251809/static_website/logos/logo_aqua-plumber-dubai-water-pump-services.png"
+    logo: "https://res.cloudinary.com/dyor4wsy0/image/upload/v1773251809/static_website/logos/logo_Best-plumber-dubai-water-pump-services.png"
 };
 
 // Social Media Links
