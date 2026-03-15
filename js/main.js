@@ -6,7 +6,7 @@
 // Business Configuration
 const siteConfig = {
     name: "Aqua Plumber Dubai Water Pump Services",
-    phone: "+971 52 172 9561",
+    phone: "+923107228764",
     whatsapp: "971521729561",
     email: "info@aquaplumberdubaiwaterpumpservices.com",
     city: "Dubai",
