@@ -12,7 +12,7 @@ const siteConfig = {
     city: "Dubai",
     country: "UAE",
     industry: "Plumbing and Water Pump Repair",
-    logo: "https://res.cloudinary.com/dyor4wsy0/image/upload/v1773251809/static_website/logos/logo_Best-plumber-dubai-water-pump-services.png"
+    logo: "https://res.cloudinary.com/dyor4wsy0/image/upload/v1773251809/static_website/logos/logo_Aqua-plumber-dubai-water-pump-services.png"
 };
 
 // Social Media Links
